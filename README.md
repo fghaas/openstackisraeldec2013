@@ -14,6 +14,19 @@ the following:
     cd ..
     git clone git://github.com/hakimel/reveal.js/
 
+Then, change back into your checkout of _this_ repository, and run
+
+    make
+
+... to create symlinks to the `reveal.js` CSS and JavaScript
+directories.
+
+If you chose to clone `reveal.js` somewhere else, run
+
+    make REVEAL=/path/to/reveal.js
+
+instead.
+
 Then, just open `index.html` (from this repo) in your favorite browser.
 We've found Chrome/Chromium to work best; in Firefox the transitions and
 animations can be a bit jerky at times.
