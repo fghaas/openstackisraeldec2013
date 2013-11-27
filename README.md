@@ -31,6 +31,12 @@ Then, just open `index.html` (from this repo) in your favorite browser.
 We've found Chrome/Chromium to work best; in Firefox the transitions and
 animations can be a bit jerky at times.
 
+If you want to try out a different reveal.js theme or transition type,
+feel free to specify them by adding `theme` and/or `transition`
+parameters in your browser's address bar, like so:
+
+    index.html?theme=sky&transition=concave
+
 Oh, and please don't even ask about IE, thank you.
 
 This content is under the Creative Commons Attribution-ShareAlike 3.0
