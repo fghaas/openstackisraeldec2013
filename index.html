@@ -27,6 +27,64 @@
 	</section>
 
 	<section id="intro">
+	  <section>
+	    <h2>What are we talking about?</h2>
+	  </section>
+	  <section>
+	    <h2>Geographically distributed OpenStack</h2>
+	  </section>
+	  <section>
+	    <p>An OpenStack cloud (or multiple clouds) spanning
+	    <strong>multiple geographical sites</strong> with
+	    <strong>limited bandwith</strong> and <strong>significant
+	    latency</strong> between them.</p>
+	    <aside class="notes">
+	      <p>You should understand <strong>significant</strong> in
+	      the sense as it is used in statistics, that is,
+	      non-negligeable or simply, "making a difference".</p>
+	      <p>In general, we're talking several orders of magnitude
+	      greater than a LAN. LAN Ethernet latency is typically
+	      about 100 microseconds, between sites we usually get on
+	      the order of 1-10 milliseconds (that is, 10 times to 100
+	      times greater than in a LAN).
+	    </aside>
+	  </section>
+	  <section>
+	    <h2>Why would we want that?</h2>
+	  </section>
+	  <section>
+	    <h3>Disaster Recovery</h3>
+	  </section>
+	  <section>
+	    <p>Being able to <strong>recover services</strong> in a
+	    <strong>backup site</strong> if the primary site is
+	    <strong>disabled</strong> or <strong>unavailable.</strong></p>
+	  </section>
+	  <section>
+	    <h3>Local Affinity</h3>
+	  </section>
+	  <section>
+	    <p>Being able to <strong>host content or services</strong>
+	    in <strong>geographical</strong> or <strong>legal
+	    proximity</strong> to your users.</p>
+	    <aside class="notes">
+	      <p>You may want to host your services in the general
+	      geographical area as your users. This may be for
+	      performance reasons, but jurisdiction considerations
+	      also apply: you might want to offer compliance with a
+	      specific set of laws when your users demand that
+	      compliance. Think users wanting EU data protection laws
+	      or not wanting to be spied on by some &mdash; cough
+	      &mdash; three-letter government agencies associated with
+	      three-letter countries.</p>
+	    </section>
+	    <section>
+	      <h3>Follow The Sun</h3>
+	      <p>Being able to <strong>geographically position</strong>
+	      your services based on <strong>time of day</strong> or
+	      other time-based parameters.</p>
+	    </section>
+	  </section>
 	</section>
 
 	<section>
