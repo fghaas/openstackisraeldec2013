@@ -128,6 +128,56 @@
 	  </section>
 	</section>
 
+	<section id="options">
+	  <section>
+	    <h3>Which options does OpenStack provide for segregating clouds?</h3>
+	  </section>
+	  <section>
+	    <h1>4</h1>
+	    <h1 class="fragment">+1</h1>
+	    <aside class="notes">In total, we have 4 different options to
+	    segregate our cloud (plus another, which is just to not
+	    care and run completely separate OpenStack clouds).</aside>
+	  </section>
+	  <section>
+	    <h3>Availability Zones</h3>
+	    <p class="fragment">All services are shared, compute hosts
+	    are segregated</p>
+	    <aside class="notes">Not suitable for geographic
+	    distribution. Does not take network failures in stride,
+	    really expects the network to not fail. So: unless you're
+	    a telco and you own your fiber, this approach isn't for
+	    you.</aside>
+	  </section>
+	  <section>
+	    <h3>Host aggregates</h3>
+	    <p class="fragment">All services are shared, compute hosts
+	    are grouped</p>
+	    <aside class="notes">Similar approach to availability
+	    zones, but usually not used for availability purposes,
+	    rather to place guests on "trusted" hardware. Same
+	    limitations as the AZ approach.</aside>
+	  </section>
+	  <section>
+	    <h3>Cells</h3>
+	    <p class="fragment">Nova is segregated by sites,
+	    everything else is shared</p>
+	    <aside class="notes">On the Nova side, this approach is
+	    superior for distributed computing compared to the
+	    others. But it doesn't do anything good for the
+	    distribution of other services, notably Glance and
+	    Cinder.</aside>
+	  </section>
+	  <section>
+	    <h3>Multiple regions</h3>
+	    <p class="fragment">Completely separate OpenStack
+	    installations unified by a single Keystone</p>
+	    <aside class="notes">This is really the only option we
+	    have for truly distributed clouds. Which introduces us to
+	    a different problem altogether.</aside>
+	  </section>
+	</section>
+
 	<section>
 	  <p>Liked this talk?</p>
 	  <p><code>@hastexo</code>
