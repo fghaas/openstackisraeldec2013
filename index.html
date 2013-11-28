@@ -178,6 +178,92 @@
 	  </section>
 	</section>
 
+	<section id="challenge">
+	  <section>
+	    <h2>So what's the real challenge in all this?</h2>
+	  </section>
+	  <section>
+	    <p>It all boils down to</p>
+	    <h1>Replication</h1>
+	  </section>
+	  <section>
+	    <p>In OpenStack, <strong>most</strong> services split
+	    <strong>data</strong> and <strong>metadata.</strong></p>
+	    <p class="fragment"><strong>Metadata</strong> usually goes
+	    into a <strong>relational database,</strong><br/> whereas
+	    <strong>data</strong> goes into a <strong>service-specific
+	    store.</strong>
+	  </section>
+	  <section>
+	    <p>That means we must <strong>separately</strong>
+	    replicate data and metadata, while keeping them
+	    <strong>consistent.</strong></p>
+	  </section>
+	  <section>
+	    <p>Unfortunately, that's</p>
+	    <h3 class="fragment">damn near impossible</h3></p>
+	  </section>
+	  <section>
+	    <h1>Why?</h1>
+	  </section>
+	  <section>
+	    <img class="full" src="cap.svg"/>
+	    <p class="caption">Benjamin Erb, <a
+	    href="http://berb.github.io/diploma-thesis/community/061_challenge.html">Concurrent
+	    Programming for Scalable Web Architectures</a>,
+	    CC-BY-SA</p>
+	  </section>
+	  <section>
+	    <p>Our only reliable multi-site, multi-master metadata
+	    store, <strong>MySQL+Galera</strong>, is a
+	    <strong>CP</strong> system.</p>
+	  </section>
+	  <section>
+	    <p>Several <strong>service-specific stores</strong> are
+	    also <strong>CP.</strong></p>
+	    <p class="fragment"><strong>Example:</strong> Cinder with
+	    <strong>Ceph or GlusterFS</strong></p>
+	    <p class="fragment">We would have to <strong>synchronize
+	    their replication stream</strong> with the MySQL
+	    database's.</p>
+	  </section>
+	  <section>
+	    <p>Other stores are <strong>AP</strong> (eventually
+	    consistent)</p>
+	    <p class="fragment"><strong>Example: Swift,</strong> and
+	    any service using it</p>
+	    <p class="fragment">It is <strong>fundamentally
+	    impossible</strong> to synchronize these data stores with
+	    metadata in a CP store, across multiple sites.</p>
+	  </section>
+	  <section>
+	    <p>Luckily, are two</p>
+	    <h1>exceptions</h1>
+	  </section>
+	  <section>
+	    <h1>Keystone</h1>
+	    <p class="fragment">does <strong>not</strong> separate data from metadata</p>
+	    <p class="fragment"><strong>Everything</strong> lives in the database</p>
+	  </section>
+	  <section>
+	    <h1>Heat</h1>
+	    <p class="fragment">can run in <strong>standalone
+	    mode</strong></p>
+	    <p class="fragment"> managing <strong>multiple
+	    clouds.</strong></p>
+	  </section>
+	  <section>
+	    <h1>So:</h1>
+	  </section>
+	  <section>
+	    <h3 class="fragment">MySQL/Galera-backed Keystone</h3>
+	    <h3 class="fragment">+ per-site Keystone regions</h3>
+	    <h3 class="fragment">+ multi-cloud standalone Heat</h3>
+	    <h3 class="fragment">= geo-distributed OpenStack cloud</h3>
+	  </section>
+
+	</section>
+
 	<section>
 	  <p>Liked this talk?</p>
 	  <p><code>@hastexo</code>
