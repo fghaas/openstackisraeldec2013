@@ -277,6 +277,32 @@
 	      replication does.</p>
 	    </aside>
 	  </section>
+	  <section>
+	    <p>But can we</p>
+	    <h2>replicate</h2>
+	    <p>anything</p>
+	    <h2>else?</h2>
+	  </section>
+	  <section>
+	    <p>Well,</p>
+	    <h2>kind of.</h2>
+	  </section>
+	  <section>
+	    <h4><code>glance-replicator</code></h4>
+	    <img class="with-heading" src="glance-replication.svg"/>
+	    <aside class="notes">
+	      <p><a target="_blank"
+	      href="http://git.openstack.org/cgit/openstack/glance/tree/glance/cmd/replicator.py"><code>glance-replicator</code></a>
+	      has existed since Folsom. It atomically replicates both
+	      image data and metadata to a remote Glance.</p>
+	      <p>The problem with it is that it's on demand, not
+	      streaming, and it's one-way, so multi-master replication
+	      isn't part of its design. It does replicate image UUIDs,
+	      though, so it should catch duplicates and so circular
+	      replication <strong>should</strong> work.</p>
+	    </aside>
+	  </section>
+
 	</section>
 
 	<section>
