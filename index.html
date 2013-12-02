@@ -302,7 +302,40 @@
 	      replication <strong>should</strong> work.</p>
 	    </aside>
 	  </section>
-
+	  <section>
+	    <h4>What about Cinder?</h4>
+	    <img class="with-heading" src="cinder-replication.svg"/>
+	    <aside class="notes">
+	      <p>Its shortcomings aside,
+	      <code>glance-replicator</code> sure looks promising for
+	      the distributed cloud use case. Wouldn't it be great if
+	      we had something like it for Cinder, as well?</p>
+	    </aside>
+	  </section>
+	  <section>
+	    <p>Wait, what?</p>
+	    <h2>Continuous volume replication?</h2>
+	    <p>Like <strong><a target="_blank"
+	    href="https://etherpad.openstack.org/p/icehouse-cinder-continuous-volume-replication-v2">Volume
+	    Mirroring</a>?</strong>
+	    <aside class="notes">
+	      <p>Volume mirroring, proposed by Avishay Traeger from
+	      IBM in Haifa and discussed in the Icehouse Summit, looks
+	      like it solves this problem for us.</p>
+	      <p>But unfortunately...</p>
+	    </aside>
+	  </section>
+	  <section>
+	    <h2>Not so fast.</h2>
+	    <aside class="notes">
+	      <p>Volume mirroring, as proposed for Icehouse, will deal
+	      with replication <strong>within</strong> a single Cinder
+	      instance only, not with replication
+	      <strong>between</strong> Cinders.</p>
+	      <p>Nonetheless, this may be an important stepping stone
+	      toward true distributed cloud volume replication.</p>
+	    </aside>
+	  </section>
 	</section>
 
 	<section>
