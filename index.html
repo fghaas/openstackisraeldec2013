@@ -252,6 +252,9 @@
 	    <p class="fragment"> managing <strong>multiple
 	    clouds.</strong></p>
 	  </section>
+	</section>
+
+	<section>
 	  <section>
 	    <h1>So:</h1>
 	  </section>
@@ -261,7 +264,19 @@
 	    <h3 class="fragment">+ multi-cloud standalone Heat</h3>
 	    <h3 class="fragment">= geo-distributed OpenStack cloud</h3>
 	  </section>
-
+	  <section>
+	    <img class="full" src="distributed-cloud.svg"/>
+	    <aside class="notes">
+	      <p>It's important to understand that if we want to use
+	      Galera replication for Keystone, but no replication for
+	      any other database content, then we need
+	      <strong>separate</strong> MySQL installations for the
+	      Keystone database and the other services' databases.</p>
+	      <p>MySQL/Galera does not support selective
+	      (per-database) replication the way that legacy MySQL
+	      replication does.</p>
+	    </aside>
+	  </section>
 	</section>
 
 	<section>
