@@ -12,6 +12,9 @@
     <!-- For syntax highlighting -->
     <link rel="stylesheet" href="lib/css/zenburn.css" />
 
+    <!-- For JavaScript-generated QR codes -->
+    <link rel="stylesheet" href="qrcode.css" />
+
     <!-- If the query includes 'print-pdf', use the PDF print sheet -->
     <script>
       document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
@@ -379,6 +382,19 @@
 
       </section>
     </div>
+
+    <script src="qrcode.js"></script>
+    <script>
+function makeQRCode(src, dest) {
+    var a = document.getElementById(src);
+    var qr = new QRCode(dest, {
+	colorDark : "#000000",
+	colorLight : "rgba(255,255,255,0)",
+    });
+
+    qr.makeCode(a.href)
+}
+    </script>
 
     <script src="lib/js/head.min.js"></script>
     <script src="js/reveal.min.js"></script>

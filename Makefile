@@ -3,18 +3,26 @@
 #
 # Override with make REVEAL=/path/to/reveal.js
 REVEAL ?= ../reveal.js
+# Override with make QRCODE=/path/to/qrcodejs
+QRCODE ?= ../qrcodejs
 
 # Directories we pull from reveal.js
-SYMLINKS ?= plugin lib css js
+REVEAL_SYMLINKS ?= plugin lib css js
+
+# Scripts we pull from qrcodejs
+QRCODE_SYMLINKS ?= qrcode.js
 
 all: symlinks
 
-symlinks: $(SYMLINKS)
+symlinks: $(REVEAL_SYMLINKS) $(QRCODE_SYMLINKS)
 
-$(SYMLINKS):
+$(REVEAL_SYMLINKS):
 	ln -s $(REVEAL)/$@
 
+$(QRCODE_SYMLINKS):
+	ln -s $(QRCODE)/$@
+
 clean:
-	rm -f $(SYMLINKS)
+	rm -f $(REVEAL_SYMLINKS) $(QRCODE_SYMLINKS)
 
 .PHONY: all symlinks clean

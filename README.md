@@ -5,25 +5,31 @@ Florian Haas
 OpenStack Israel
 December 9, 2013
 
-These slides rely on reveal.js, which they expect to be checked out
-into a sibling directory named `reveal.js`.
+These slides rely on reveal.js and qrcode.js, which they expect to be
+checked out into sibling directories named `reveal.js` and `qrcodejs`,
+respectively.
 
 In other words, after you clone _this_ repository, make sure you do
 the following:
 
     cd ..
-    git clone git://github.com/hakimel/reveal.js/
+    git clone git://github.com/hakimel/reveal.js
+	git clone git://github.com/davidshimjs/qrcodejs
 
 Then, change back into your checkout of _this_ repository, and run
 
     make
 
-... to create symlinks to the `reveal.js` CSS and JavaScript
-directories.
+... to create symlinks to required `reveal.js` and `qrcodejs` CSS and
+JavaScript files.
 
-If you chose to clone `reveal.js` somewhere else, run
+If you chose to clone `reveal.js` or `qrcodejs` somewhere else, run
 
     make REVEAL=/path/to/reveal.js
+
+or
+
+    make QRCODE=/path/to/qrcodejs
 
 instead.
 
