@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="71cm" height="48cm" viewBox="-242 -382 1403 946" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="540" y="-380" width="620" height="429"/>
+    <text font-size="23.7067" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:700" x="850" y="-154.967">
+      <tspan x="850" y="-154.967">Region 2</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-240" y="-380" width="640" height="429"/>
+    <text font-size="23.7067" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:700" x="80" y="-154.967">
+      <tspan x="80" y="-154.967">Region 1</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 280 -27.3333 C 294.279,-36.8333 301.419,-40 315.699,-40 C 329.978,-40 337.118,-36.8333 351.397,-27.3333 L 351.397,23.3333 C 337.118,32.8333 329.978,36 315.699,36 C 301.419,36 294.279,32.8333 280,23.3333 L 280,-27.3333z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 280 -27.3333 C 294.279,-36.8333 301.419,-40 315.699,-40 C 329.978,-40 337.118,-36.8333 351.397,-27.3333 L 351.397,23.3333 C 337.118,32.8333 329.978,36 315.699,36 C 301.419,36 294.279,32.8333 280,23.3333 L 280,-27.3333"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 280 -27.3333 C 294.279,-17.8333 301.419,-14.6667 315.699,-14.6667 C 329.978,-14.6667 337.118,-17.8333 351.397,-27.3333"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:normal" x="315.699" y="2.73333">
+      <tspan x="315.699" y="2.73333">Keystone</tspan>
+      <tspan x="315.699" y="18.7333">Database</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 580 -27.3333 C 594.279,-36.8333 601.419,-40 615.699,-40 C 629.978,-40 637.118,-36.8333 651.397,-27.3333 L 651.397,23.3333 C 637.118,32.8333 629.978,36 615.699,36 C 601.419,36 594.279,32.8333 580,23.3333 L 580,-27.3333z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 580 -27.3333 C 594.279,-36.8333 601.419,-40 615.699,-40 C 629.978,-40 637.118,-36.8333 651.397,-27.3333 L 651.397,23.3333 C 637.118,32.8333 629.978,36 615.699,36 C 601.419,36 594.279,32.8333 580,23.3333 L 580,-27.3333"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 580 -27.3333 C 594.279,-17.8333 601.419,-14.6667 615.699,-14.6667 C 629.978,-14.6667 637.118,-17.8333 651.397,-27.3333"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:normal" x="615.699" y="2.73333">
+      <tspan x="615.699" y="2.73333">Keystone</tspan>
+      <tspan x="615.699" y="18.7333">Database</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" d="M 588.56,-44.5289 A 163.796,163.796 0 0 0 342.838,-44.5289"/>
+    <polygon style="fill: #ff0000" points="338.003,-38.8101 340.22,-49.7685 342.621,-44.7201 348.1,-43.6118 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="338.003,-38.8101 340.22,-49.7685 342.621,-44.7201 348.1,-43.6118 "/>
+    <polygon style="fill: #ff0000" points="593.394,-38.8101 583.297,-43.6118 588.776,-44.7201 591.177,-49.7685 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="593.394,-38.8101 583.297,-43.6118 588.776,-44.7201 591.177,-49.7685 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" d="M 661.353,172.679 A 91.9172,91.9172 0 0 0 661.353,6.75271"/>
+    <polygon style="fill: #ff0000" points="654.503,3.79076 665.597,2.40668 661.574,6.28861 662.266,11.8358 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="654.503,3.79076 665.597,2.40668 661.574,6.28861 662.266,11.8358 "/>
+    <polygon style="fill: #ff0000" points="654.503,175.641 662.266,167.596 661.574,173.143 665.597,177.025 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="654.503,175.641 662.266,167.596 661.574,173.143 665.597,177.025 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" d="M 270.044,6.75271 A 91.9172,91.9172 0 0 0 270.044,172.679"/>
+    <polygon style="fill: #ff0000" points="276.895,175.641 265.8,177.025 269.823,173.143 269.131,167.596 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="276.895,175.641 265.8,177.025 269.823,173.143 269.131,167.596 "/>
+    <polygon style="fill: #ff0000" points="276.895,3.79076 269.131,11.8358 269.823,6.28861 265.8,2.40668 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="276.895,3.79076 269.131,11.8358 269.823,6.28861 265.8,2.40668 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" d="M 342.838,223.96 A 163.796,163.796 0 0 0 588.56,223.96"/>
+    <polygon style="fill: #ff0000" points="593.394,218.242 591.177,229.2 588.776,224.152 583.297,223.043 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="593.394,218.242 591.177,229.2 588.776,224.152 583.297,223.043 "/>
+    <polygon style="fill: #ff0000" points="338.003,218.242 348.1,223.043 342.621,224.152 340.22,229.2 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="338.003,218.242 348.1,223.043 342.621,224.152 340.22,229.2 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 80 -27.3333 C 94.2794,-36.8333 101.419,-40 115.699,-40 C 129.978,-40 137.118,-36.8333 151.397,-27.3333 L 151.397,23.3333 C 137.118,32.8333 129.978,36 115.699,36 C 101.419,36 94.2794,32.8333 80,23.3333 L 80,-27.3333z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 80 -27.3333 C 94.2794,-36.8333 101.419,-40 115.699,-40 C 129.978,-40 137.118,-36.8333 151.397,-27.3333 L 151.397,23.3333 C 137.118,32.8333 129.978,36 115.699,36 C 101.419,36 94.2794,32.8333 80,23.3333 L 80,-27.3333"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 80 -27.3333 C 94.2794,-17.8333 101.419,-14.6667 115.699,-14.6667 C 129.978,-14.6667 137.118,-17.8333 151.397,-27.3333"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:normal" x="115.699" y="2.73333">
+      <tspan x="115.699" y="2.73333">Services</tspan>
+      <tspan x="115.699" y="18.7333">Database</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 780 -27.3333 C 794.279,-36.8333 801.419,-40 815.699,-40 C 829.978,-40 837.118,-36.8333 851.397,-27.3333 L 851.397,23.3333 C 837.118,32.8333 829.978,36 815.699,36 C 801.419,36 794.279,32.8333 780,23.3333 L 780,-27.3333z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 780 -27.3333 C 794.279,-36.8333 801.419,-40 815.699,-40 C 829.978,-40 837.118,-36.8333 851.397,-27.3333 L 851.397,23.3333 C 837.118,32.8333 829.978,36 815.699,36 C 801.419,36 794.279,32.8333 780,23.3333 L 780,-27.3333"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 780 -27.3333 C 794.279,-17.8333 801.419,-14.6667 815.699,-14.6667 C 829.978,-14.6667 837.118,-17.8333 851.397,-27.3333"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:normal" x="815.699" y="2.73333">
+      <tspan x="815.699" y="2.73333">Services</tspan>
+      <tspan x="815.699" y="18.7333">Database</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="315.971" y1="-198.997" x2="315.766" y2="-50.7217"/>
+    <polygon style="fill: #000000" points="315.756,-43.2217 310.769,-53.2286 315.766,-50.7217 320.769,-53.2147 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="315.756,-43.2217 310.769,-53.2286 315.766,-50.7217 320.769,-53.2147 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-97.8596" y1="-80.1589" x2="69.8548" y2="-18.7781"/>
+    <polygon style="fill: #000000" points="76.8979,-16.2004 65.7886,-14.9419 69.8548,-18.7781 69.2255,-24.3327 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="76.8979,-16.2004 65.7886,-14.9419 69.8548,-18.7781 69.2255,-24.3327 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 430 66.2157 L 510,66.2157 C 521.046,66.2157 530,75.17 530,86.2157 C 530,97.2614 521.046,106.216 510,106.216 L 430,106.216 C 418.954,106.216 410,97.2614 410,86.2157 C 410,75.17 418.954,66.2157 430,66.2157z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 430 66.2157 L 510,66.2157 C 521.046,66.2157 530,75.17 530,86.2157 C 530,97.2614 521.046,106.216 510,106.216 L 430,106.216 C 418.954,106.216 410,97.2614 410,86.2157 C 410,75.17 418.954,66.2157 430,66.2157"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="470" y="90.2157">
+      <tspan x="470" y="90.2157">Heat</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="437.532" y1="65.2599" x2="409.173" y2="46.9566"/>
+    <polygon style="fill: #000000" points="402.872,42.8895 413.985,44.1114 409.173,46.9566 408.562,52.5133 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="402.872,42.8895 413.985,44.1114 409.173,46.9566 408.562,52.5133 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="501.636" y1="65.2599" x2="530.878" y2="45.8898"/>
+    <polygon style="fill: #000000" points="537.13,41.748 531.555,51.4388 530.878,45.8898 526.032,43.102 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="537.13,41.748 531.555,51.4388 530.878,45.8898 526.032,43.102 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="438.174" y1="107.206" x2="409.121" y2="126.367"/>
+    <polygon style="fill: #000000" points="402.86,130.497 408.455,120.817 409.121,126.367 413.96,129.165 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="402.86,130.497 408.455,120.817 409.121,126.367 413.96,129.165 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="501.01" y1="107.206" x2="530.932" y2="127.459"/>
+    <polygon style="fill: #000000" points="537.143,131.664 526.059,130.199 530.932,127.459 531.664,121.917 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="537.143,131.664 526.059,130.199 530.932,127.459 531.664,121.917 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-147.688" y1="-340" x2="-147.688" y2="-340"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-147.833" y1="-318.997" x2="-147.974" y2="-298.5"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-147.974" y1="-257.509" x2="-147.974" y2="-239.491"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-147.974" y1="-197.509" x2="-147.974" y2="-179.491"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-147.974" y1="-137.509" x2="-147.974" y2="-119.491"/>
+  <g>
+    <path style="fill: #ffffff" d="M -187.688 -360 L -107.688,-360 C -96.6427,-360 -87.6884,-351.046 -87.6884,-340 C -87.6884,-328.954 -96.6427,-320 -107.688,-320 L -187.688,-320 C -198.734,-320 -207.688,-328.954 -207.688,-340 C -207.688,-351.046 -198.734,-360 -187.688,-360z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -187.688 -360 L -107.688,-360 C -96.6427,-360 -87.6884,-351.046 -87.6884,-340 C -87.6884,-328.954 -96.6427,-320 -107.688,-320 L -187.688,-320 C -198.734,-320 -207.688,-328.954 -207.688,-340 C -207.688,-351.046 -198.734,-360 -187.688,-360"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-147.688" y="-336">
+      <tspan x="-147.688" y="-336">Nova</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 276 -240 L 356,-240 C 367.046,-240 376,-231.046 376,-220 C 376,-208.954 367.046,-200 356,-200 L 276,-200 C 264.954,-200 256,-208.954 256,-220 C 256,-231.046 264.954,-240 276,-240z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 276 -240 L 356,-240 C 367.046,-240 376,-231.046 376,-220 C 376,-208.954 367.046,-200 356,-200 L 276,-200 C 264.954,-200 256,-208.954 256,-220 C 256,-231.046 264.954,-240 276,-240"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="316" y="-216">
+      <tspan x="316" y="-216">Keystone</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -187.974 -238.5 L -107.974,-238.5 C -96.9285,-238.5 -87.9742,-229.546 -87.9742,-218.5 C -87.9742,-207.454 -96.9285,-198.5 -107.974,-198.5 L -187.974,-198.5 C -199.02,-198.5 -207.974,-207.454 -207.974,-218.5 C -207.974,-229.546 -199.02,-238.5 -187.974,-238.5z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -187.974 -238.5 L -107.974,-238.5 C -96.9285,-238.5 -87.9742,-229.546 -87.9742,-218.5 C -87.9742,-207.454 -96.9285,-198.5 -107.974,-198.5 L -187.974,-198.5 C -199.02,-198.5 -207.974,-207.454 -207.974,-218.5 C -207.974,-229.546 -199.02,-238.5 -187.974,-238.5"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-147.974" y="-214.5">
+      <tspan x="-147.974" y="-214.5">Cinder</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -187.974 -298.5 L -107.974,-298.5 C -96.9285,-298.5 -87.9742,-289.546 -87.9742,-278.5 C -87.9742,-267.454 -96.9285,-258.5 -107.974,-258.5 L -187.974,-258.5 C -199.02,-258.5 -207.974,-267.454 -207.974,-278.5 C -207.974,-289.546 -199.02,-298.5 -187.974,-298.5z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -187.974 -298.5 L -107.974,-298.5 C -96.9285,-298.5 -87.9742,-289.546 -87.9742,-278.5 C -87.9742,-267.454 -96.9285,-258.5 -107.974,-258.5 L -187.974,-258.5 C -199.02,-258.5 -207.974,-267.454 -207.974,-278.5 C -207.974,-289.546 -199.02,-298.5 -187.974,-298.5"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-147.974" y="-274.5">
+      <tspan x="-147.974" y="-274.5">Glance</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -187.974 -118.5 L -107.974,-118.5 C -96.9285,-118.5 -87.9742,-109.546 -87.9742,-98.5 C -87.9742,-87.4543 -96.9285,-78.5 -107.974,-78.5 L -187.974,-78.5 C -199.02,-78.5 -207.974,-87.4543 -207.974,-98.5 C -207.974,-109.546 -199.02,-118.5 -187.974,-118.5z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -187.974 -118.5 L -107.974,-118.5 C -96.9285,-118.5 -87.9742,-109.546 -87.9742,-98.5 C -87.9742,-87.4543 -96.9285,-78.5 -107.974,-78.5 L -187.974,-78.5 C -199.02,-78.5 -207.974,-87.4543 -207.974,-98.5 C -207.974,-109.546 -199.02,-118.5 -187.974,-118.5"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-147.974" y="-94.5">
+      <tspan x="-147.974" y="-94.5">Neutron</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -187.974 -178.5 L -107.974,-178.5 C -96.9285,-178.5 -87.9742,-169.546 -87.9742,-158.5 C -87.9742,-147.454 -96.9285,-138.5 -107.974,-138.5 L -187.974,-138.5 C -199.02,-138.5 -207.974,-147.454 -207.974,-158.5 C -207.974,-169.546 -199.02,-178.5 -187.974,-178.5z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -187.974 -178.5 L -107.974,-178.5 C -96.9285,-178.5 -87.9742,-169.546 -87.9742,-158.5 C -87.9742,-147.454 -96.9285,-138.5 -107.974,-138.5 L -187.974,-138.5 C -199.02,-138.5 -207.974,-147.454 -207.974,-158.5 C -207.974,-169.546 -199.02,-178.5 -187.974,-178.5"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-147.974" y="-154.5">
+      <tspan x="-147.974" y="-154.5">Ceilometer</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1058.28" y1="-341.5" x2="1058.28" y2="-341.5"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1058.13" y1="-320.497" x2="1057.99" y2="-300"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1057.99" y1="-259.009" x2="1057.99" y2="-240.991"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1057.99" y1="-199.009" x2="1057.99" y2="-180.991"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1057.99" y1="-139.009" x2="1057.99" y2="-120.991"/>
+  <g>
+    <path style="fill: #ffffff" d="M 1018.28 -361.5 L 1098.28,-361.5 C 1109.32,-361.5 1118.28,-352.546 1118.28,-341.5 C 1118.28,-330.454 1109.32,-321.5 1098.28,-321.5 L 1018.28,-321.5 C 1007.23,-321.5 998.276,-330.454 998.276,-341.5 C 998.276,-352.546 1007.23,-361.5 1018.28,-361.5z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1018.28 -361.5 L 1098.28,-361.5 C 1109.32,-361.5 1118.28,-352.546 1118.28,-341.5 C 1118.28,-330.454 1109.32,-321.5 1098.28,-321.5 L 1018.28,-321.5 C 1007.23,-321.5 998.276,-330.454 998.276,-341.5 C 998.276,-352.546 1007.23,-361.5 1018.28,-361.5"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1058.28" y="-337.5">
+      <tspan x="1058.28" y="-337.5">Nova</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1017.99 -240 L 1097.99,-240 C 1109.04,-240 1117.99,-231.046 1117.99,-220 C 1117.99,-208.954 1109.04,-200 1097.99,-200 L 1017.99,-200 C 1006.94,-200 997.99,-208.954 997.99,-220 C 997.99,-231.046 1006.94,-240 1017.99,-240z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1017.99 -240 L 1097.99,-240 C 1109.04,-240 1117.99,-231.046 1117.99,-220 C 1117.99,-208.954 1109.04,-200 1097.99,-200 L 1017.99,-200 C 1006.94,-200 997.99,-208.954 997.99,-220 C 997.99,-231.046 1006.94,-240 1017.99,-240"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1057.99" y="-216">
+      <tspan x="1057.99" y="-216">Cinder</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1017.99 -300 L 1097.99,-300 C 1109.04,-300 1117.99,-291.046 1117.99,-280 C 1117.99,-268.954 1109.04,-260 1097.99,-260 L 1017.99,-260 C 1006.94,-260 997.99,-268.954 997.99,-280 C 997.99,-291.046 1006.94,-300 1017.99,-300z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1017.99 -300 L 1097.99,-300 C 1109.04,-300 1117.99,-291.046 1117.99,-280 C 1117.99,-268.954 1109.04,-260 1097.99,-260 L 1017.99,-260 C 1006.94,-260 997.99,-268.954 997.99,-280 C 997.99,-291.046 1006.94,-300 1017.99,-300"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1057.99" y="-276">
+      <tspan x="1057.99" y="-276">Glance</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1017.99 -120 L 1097.99,-120 C 1109.04,-120 1117.99,-111.046 1117.99,-100 C 1117.99,-88.9543 1109.04,-80 1097.99,-80 L 1017.99,-80 C 1006.94,-80 997.99,-88.9543 997.99,-100 C 997.99,-111.046 1006.94,-120 1017.99,-120z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1017.99 -120 L 1097.99,-120 C 1109.04,-120 1117.99,-111.046 1117.99,-100 C 1117.99,-88.9543 1109.04,-80 1097.99,-80 L 1017.99,-80 C 1006.94,-80 997.99,-88.9543 997.99,-100 C 997.99,-111.046 1006.94,-120 1017.99,-120"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1057.99" y="-96">
+      <tspan x="1057.99" y="-96">Neutron</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1017.99 -180 L 1097.99,-180 C 1109.04,-180 1117.99,-171.046 1117.99,-160 C 1117.99,-148.954 1109.04,-140 1097.99,-140 L 1017.99,-140 C 1006.94,-140 997.99,-148.954 997.99,-160 C 997.99,-171.046 1006.94,-180 1017.99,-180z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1017.99 -180 L 1097.99,-180 C 1109.04,-180 1117.99,-171.046 1117.99,-160 C 1117.99,-148.954 1109.04,-140 1097.99,-140 L 1017.99,-140 C 1006.94,-140 997.99,-148.954 997.99,-160 C 997.99,-171.046 1006.94,-180 1017.99,-180"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1057.99" y="-156">
+      <tspan x="1057.99" y="-156">Ceilometer</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 575.757 -240 L 655.757,-240 C 666.803,-240 675.757,-231.046 675.757,-220 C 675.757,-208.954 666.803,-200 655.757,-200 L 575.757,-200 C 564.712,-200 555.757,-208.954 555.757,-220 C 555.757,-231.046 564.712,-240 575.757,-240z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 575.757 -240 L 655.757,-240 C 666.803,-240 675.757,-231.046 675.757,-220 C 675.757,-208.954 666.803,-200 655.757,-200 L 575.757,-200 C 564.712,-200 555.757,-208.954 555.757,-220 C 555.757,-231.046 564.712,-240 575.757,-240"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="615.757" y="-216">
+      <tspan x="615.757" y="-216">Keystone</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="615.752" y1="-198.997" x2="615.712" y2="-50.1673"/>
+    <polygon style="fill: #000000" points="615.71,-42.6673 610.712,-52.6687 615.712,-50.1673 620.712,-52.666 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="615.71,-42.6673 610.712,-52.6687 615.712,-50.1673 620.712,-52.666 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1010.06" y1="-80.6141" x2="861.414" y2="-20.4906"/>
+    <polygon style="fill: #000000" points="854.461,-17.6784 861.857,-26.0632 861.414,-20.4906 865.606,-16.7928 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="854.461,-17.6784 861.857,-26.0632 861.414,-20.4906 865.606,-16.7928 "/>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-240" y="123.431" width="640" height="440"/>
+    <text font-size="23.7067" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:700" x="80" y="353.965">
+      <tspan x="80" y="353.965">Region 3</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 280 156.098 C 294.279,146.598 301.419,143.431 315.699,143.431 C 329.978,143.431 337.118,146.598 351.397,156.098 L 351.397,206.765 C 337.118,216.265 329.978,219.431 315.699,219.431 C 301.419,219.431 294.279,216.265 280,206.765 L 280,156.098z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 280 156.098 C 294.279,146.598 301.419,143.431 315.699,143.431 C 329.978,143.431 337.118,146.598 351.397,156.098 L 351.397,206.765 C 337.118,216.265 329.978,219.431 315.699,219.431 C 301.419,219.431 294.279,216.265 280,206.765 L 280,156.098"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 280 156.098 C 294.279,165.598 301.419,168.765 315.699,168.765 C 329.978,168.765 337.118,165.598 351.397,156.098"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:normal" x="315.699" y="186.165">
+      <tspan x="315.699" y="186.165">Keystone</tspan>
+      <tspan x="315.699" y="202.165">Database</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 80 156.098 C 94.2794,146.598 101.419,143.431 115.699,143.431 C 129.978,143.431 137.118,146.598 151.397,156.098 L 151.397,206.765 C 137.118,216.265 129.978,219.431 115.699,219.431 C 101.419,219.431 94.2794,216.265 80,206.765 L 80,156.098z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 80 156.098 C 94.2794,146.598 101.419,143.431 115.699,143.431 C 129.978,143.431 137.118,146.598 151.397,156.098 L 151.397,206.765 C 137.118,216.265 129.978,219.431 115.699,219.431 C 101.419,219.431 94.2794,216.265 80,206.765 L 80,156.098"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 80 156.098 C 94.2794,165.598 101.419,168.765 115.699,168.765 C 129.978,168.765 137.118,165.598 151.397,156.098"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:normal" x="115.699" y="186.165">
+      <tspan x="115.699" y="186.165">Services</tspan>
+      <tspan x="115.699" y="202.165">Database</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -186.274 263.431 L -106.274,263.431 C -95.2285,263.431 -86.2742,272.386 -86.2742,283.431 C -86.2742,294.477 -95.2285,303.431 -106.274,303.431 L -186.274,303.431 C -197.32,303.431 -206.274,294.477 -206.274,283.431 C -206.274,272.386 -197.32,263.431 -186.274,263.431z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -186.274 263.431 L -106.274,263.431 C -95.2285,263.431 -86.2742,272.386 -86.2742,283.431 C -86.2742,294.477 -95.2285,303.431 -106.274,303.431 L -186.274,303.431 C -197.32,303.431 -206.274,294.477 -206.274,283.431 C -206.274,272.386 -197.32,263.431 -186.274,263.431"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-146.274" y="287.431">
+      <tspan x="-146.274" y="287.431">Nova</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 277.414 383.431 L 357.414,383.431 C 368.46,383.431 377.414,392.386 377.414,403.431 C 377.414,414.477 368.46,423.431 357.414,423.431 L 277.414,423.431 C 266.368,423.431 257.414,414.477 257.414,403.431 C 257.414,392.386 266.368,383.431 277.414,383.431z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 277.414 383.431 L 357.414,383.431 C 368.46,383.431 377.414,392.386 377.414,403.431 C 377.414,414.477 368.46,423.431 357.414,423.431 L 277.414,423.431 C 266.368,423.431 257.414,414.477 257.414,403.431 C 257.414,392.386 266.368,383.431 277.414,383.431"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="317.414" y="407.431">
+      <tspan x="317.414" y="407.431">Keystone</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -186.56 384.931 L -106.56,384.931 C -95.5142,384.931 -86.5599,393.886 -86.5599,404.931 C -86.5599,415.977 -95.5142,424.931 -106.56,424.931 L -186.56,424.931 C -197.606,424.931 -206.56,415.977 -206.56,404.931 C -206.56,393.886 -197.606,384.931 -186.56,384.931z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -186.56 384.931 L -106.56,384.931 C -95.5142,384.931 -86.5599,393.886 -86.5599,404.931 C -86.5599,415.977 -95.5142,424.931 -106.56,424.931 L -186.56,424.931 C -197.606,424.931 -206.56,415.977 -206.56,404.931 C -206.56,393.886 -197.606,384.931 -186.56,384.931"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-146.56" y="408.931">
+      <tspan x="-146.56" y="408.931">Cinder</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -186.56 324.931 L -106.56,324.931 C -95.5142,324.931 -86.5599,333.886 -86.5599,344.931 C -86.5599,355.977 -95.5142,364.931 -106.56,364.931 L -186.56,364.931 C -197.606,364.931 -206.56,355.977 -206.56,344.931 C -206.56,333.886 -197.606,324.931 -186.56,324.931z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -186.56 324.931 L -106.56,324.931 C -95.5142,324.931 -86.5599,333.886 -86.5599,344.931 C -86.5599,355.977 -95.5142,364.931 -106.56,364.931 L -186.56,364.931 C -197.606,364.931 -206.56,355.977 -206.56,344.931 C -206.56,333.886 -197.606,324.931 -186.56,324.931"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-146.56" y="348.931">
+      <tspan x="-146.56" y="348.931">Glance</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -186.56 504.931 L -106.56,504.931 C -95.5142,504.931 -86.5599,513.886 -86.5599,524.931 C -86.5599,535.977 -95.5142,544.931 -106.56,544.931 L -186.56,544.931 C -197.606,544.931 -206.56,535.977 -206.56,524.931 C -206.56,513.886 -197.606,504.931 -186.56,504.931z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -186.56 504.931 L -106.56,504.931 C -95.5142,504.931 -86.5599,513.886 -86.5599,524.931 C -86.5599,535.977 -95.5142,544.931 -106.56,544.931 L -186.56,544.931 C -197.606,544.931 -206.56,535.977 -206.56,524.931 C -206.56,513.886 -197.606,504.931 -186.56,504.931"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-146.56" y="528.931">
+      <tspan x="-146.56" y="528.931">Neutron</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -186.56 444.931 L -106.56,444.931 C -95.5142,444.931 -86.5599,453.886 -86.5599,464.931 C -86.5599,475.977 -95.5142,484.931 -106.56,484.931 L -186.56,484.931 C -197.606,484.931 -206.56,475.977 -206.56,464.931 C -206.56,453.886 -197.606,444.931 -186.56,444.931z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -186.56 444.931 L -106.56,444.931 C -95.5142,444.931 -86.5599,453.886 -86.5599,464.931 C -86.5599,475.977 -95.5142,484.931 -106.56,484.931 L -186.56,484.931 C -197.606,484.931 -206.56,475.977 -206.56,464.931 C -206.56,453.886 -197.606,444.931 -186.56,444.931"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-146.56" y="468.931">
+      <tspan x="-146.56" y="468.931">Ceilometer</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-146.56" y1="503.955" x2="-146.56" y2="484.931"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-146.56" y1="443.955" x2="-146.56" y2="424.931"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-146.274" y1="283.431" x2="-146.274" y2="283.431"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-146.274" y1="283.431" x2="-146.274" y2="283.431"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-146.56" y1="383.94" x2="-146.56" y2="365.923"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-146.462" y1="323.933" x2="-146.372" y2="304.429"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-97.4581" y1="264.425" x2="69.9779" y2="199.233"/>
+    <polygon style="fill: #000000" points="76.9668,196.512 69.4623,204.799 69.9779,199.233 65.8341,195.481 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="76.9668,196.512 69.4623,204.799 69.9779,199.233 65.8341,195.481 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="317.414" y1="383.431" x2="316.112" y2="230.152"/>
+    <polygon style="fill: #000000" points="316.049,222.652 321.133,232.609 316.112,230.152 311.134,232.694 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="316.049,222.652 321.133,232.609 316.112,230.152 311.134,232.694 "/>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="540" y="123.431" width="620" height="440"/>
+    <text font-size="23.7067" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:700" x="850" y="353.965">
+      <tspan x="850" y="353.965">Region 4</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 580 156.098 C 594.279,146.598 601.419,143.431 615.699,143.431 C 629.978,143.431 637.118,146.598 651.397,156.098 L 651.397,206.765 C 637.118,216.265 629.978,219.431 615.699,219.431 C 601.419,219.431 594.279,216.265 580,206.765 L 580,156.098z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 580 156.098 C 594.279,146.598 601.419,143.431 615.699,143.431 C 629.978,143.431 637.118,146.598 651.397,156.098 L 651.397,206.765 C 637.118,216.265 629.978,219.431 615.699,219.431 C 601.419,219.431 594.279,216.265 580,206.765 L 580,156.098"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 580 156.098 C 594.279,165.598 601.419,168.765 615.699,168.765 C 629.978,168.765 637.118,165.598 651.397,156.098"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:normal" x="615.699" y="186.165">
+      <tspan x="615.699" y="186.165">Keystone</tspan>
+      <tspan x="615.699" y="202.165">Database</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 780 156.098 C 794.279,146.598 801.419,143.431 815.699,143.431 C 829.978,143.431 837.118,146.598 851.397,156.098 L 851.397,206.765 C 837.118,216.265 829.978,219.431 815.699,219.431 C 801.419,219.431 794.279,216.265 780,206.765 L 780,156.098z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 780 156.098 C 794.279,146.598 801.419,143.431 815.699,143.431 C 829.978,143.431 837.118,146.598 851.397,156.098 L 851.397,206.765 C 837.118,216.265 829.978,219.431 815.699,219.431 C 801.419,219.431 794.279,216.265 780,206.765 L 780,156.098"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 780 156.098 C 794.279,165.598 801.419,168.765 815.699,168.765 C 829.978,168.765 837.118,165.598 851.397,156.098"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Open Sans;font-style:normal;font-weight:normal" x="815.699" y="186.165">
+      <tspan x="815.699" y="186.165">Services</tspan>
+      <tspan x="815.699" y="202.165">Database</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1058.28" y1="281.931" x2="1058.28" y2="281.931"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1058.13" y1="302.935" x2="1057.99" y2="323.431"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1057.99" y1="364.423" x2="1057.99" y2="382.44"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1057.99" y1="424.423" x2="1057.99" y2="442.44"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1057.99" y1="484.423" x2="1057.99" y2="502.44"/>
+  <g>
+    <path style="fill: #ffffff" d="M 1018.28 261.931 L 1098.28,261.931 C 1109.32,261.931 1118.28,270.886 1118.28,281.931 C 1118.28,292.977 1109.32,301.931 1098.28,301.931 L 1018.28,301.931 C 1007.23,301.931 998.276,292.977 998.276,281.931 C 998.276,270.886 1007.23,261.931 1018.28,261.931z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1018.28 261.931 L 1098.28,261.931 C 1109.32,261.931 1118.28,270.886 1118.28,281.931 C 1118.28,292.977 1109.32,301.931 1098.28,301.931 L 1018.28,301.931 C 1007.23,301.931 998.276,292.977 998.276,281.931 C 998.276,270.886 1007.23,261.931 1018.28,261.931"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1058.28" y="285.931">
+      <tspan x="1058.28" y="285.931">Nova</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1017.99 383.431 L 1097.99,383.431 C 1109.04,383.431 1117.99,392.386 1117.99,403.431 C 1117.99,414.477 1109.04,423.431 1097.99,423.431 L 1017.99,423.431 C 1006.94,423.431 997.99,414.477 997.99,403.431 C 997.99,392.386 1006.94,383.431 1017.99,383.431z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1017.99 383.431 L 1097.99,383.431 C 1109.04,383.431 1117.99,392.386 1117.99,403.431 C 1117.99,414.477 1109.04,423.431 1097.99,423.431 L 1017.99,423.431 C 1006.94,423.431 997.99,414.477 997.99,403.431 C 997.99,392.386 1006.94,383.431 1017.99,383.431"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1057.99" y="407.431">
+      <tspan x="1057.99" y="407.431">Cinder</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1017.99 323.431 L 1097.99,323.431 C 1109.04,323.431 1117.99,332.386 1117.99,343.431 C 1117.99,354.477 1109.04,363.431 1097.99,363.431 L 1017.99,363.431 C 1006.94,363.431 997.99,354.477 997.99,343.431 C 997.99,332.386 1006.94,323.431 1017.99,323.431z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1017.99 323.431 L 1097.99,323.431 C 1109.04,323.431 1117.99,332.386 1117.99,343.431 C 1117.99,354.477 1109.04,363.431 1097.99,363.431 L 1017.99,363.431 C 1006.94,363.431 997.99,354.477 997.99,343.431 C 997.99,332.386 1006.94,323.431 1017.99,323.431"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1057.99" y="347.431">
+      <tspan x="1057.99" y="347.431">Glance</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1017.99 503.431 L 1097.99,503.431 C 1109.04,503.431 1117.99,512.386 1117.99,523.431 C 1117.99,534.477 1109.04,543.431 1097.99,543.431 L 1017.99,543.431 C 1006.94,543.431 997.99,534.477 997.99,523.431 C 997.99,512.386 1006.94,503.431 1017.99,503.431z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1017.99 503.431 L 1097.99,503.431 C 1109.04,503.431 1117.99,512.386 1117.99,523.431 C 1117.99,534.477 1109.04,543.431 1097.99,543.431 L 1017.99,543.431 C 1006.94,543.431 997.99,534.477 997.99,523.431 C 997.99,512.386 1006.94,503.431 1017.99,503.431"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1057.99" y="527.431">
+      <tspan x="1057.99" y="527.431">Neutron</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1017.99 443.431 L 1097.99,443.431 C 1109.04,443.431 1117.99,452.386 1117.99,463.431 C 1117.99,474.477 1109.04,483.431 1097.99,483.431 L 1017.99,483.431 C 1006.94,483.431 997.99,474.477 997.99,463.431 C 997.99,452.386 1006.94,443.431 1017.99,443.431z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1017.99 443.431 L 1097.99,443.431 C 1109.04,443.431 1117.99,452.386 1117.99,463.431 C 1117.99,474.477 1109.04,483.431 1097.99,483.431 L 1017.99,483.431 C 1006.94,483.431 997.99,474.477 997.99,463.431 C 997.99,452.386 1006.94,443.431 1017.99,443.431"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1057.99" y="467.431">
+      <tspan x="1057.99" y="467.431">Ceilometer</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 577.025 383.431 L 657.025,383.431 C 668.071,383.431 677.025,392.386 677.025,403.431 C 677.025,414.477 668.071,423.431 657.025,423.431 L 577.025,423.431 C 565.979,423.431 557.025,414.477 557.025,403.431 C 557.025,392.386 565.979,383.431 577.025,383.431z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 577.025 383.431 L 657.025,383.431 C 668.071,383.431 677.025,392.386 677.025,403.431 C 677.025,414.477 668.071,423.431 657.025,423.431 L 577.025,423.431 C 565.979,423.431 557.025,414.477 557.025,403.431 C 557.025,392.386 565.979,383.431 577.025,383.431"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="617.025" y="407.431">
+      <tspan x="617.025" y="407.431">Keystone</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="616.9" y1="382.443" x2="615.99" y2="230.15"/>
+    <polygon style="fill: #000000" points="615.945,222.65 621.005,232.62 615.99,230.15 611.005,232.68 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="615.945,222.65 621.005,232.62 615.99,230.15 611.005,232.68 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1011.85" y1="262.695" x2="861.293" y2="200.321"/>
+    <polygon style="fill: #000000" points="854.364,197.451 865.516,196.659 861.293,200.321 861.689,205.897 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="854.364,197.451 865.516,196.659 861.293,200.321 861.689,205.897 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" x1="-87.0348" y1="-218.576" x2="985.078" y2="-219.909"/>
+    <polygon style="fill: #ff0000" points="992.578,-219.919 982.585,-214.906 985.078,-219.909 982.572,-224.906 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" points="992.578,-219.919 982.585,-214.906 985.078,-219.909 982.572,-224.906 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" x1="-147.927" y1="-197.648" x2="-146.634" y2="372.107"/>
+    <polygon style="fill: #ff0000" points="-146.617,379.607 -151.64,369.619 -146.634,372.107 -141.64,369.596 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" points="-146.617,379.607 -151.64,369.619 -146.634,372.107 -141.64,369.596 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" x1="-107.974" y1="-197.871" x2="1007.35" y2="377.315"/>
+    <polygon style="fill: #ff0000" points="1014.02,380.753 1002.84,380.613 1007.35,377.315 1007.42,371.726 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" points="1014.02,380.753 1002.84,380.613 1007.35,377.315 1007.42,371.726 "/>
+  </g>
+</svg>
