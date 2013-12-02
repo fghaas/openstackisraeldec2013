@@ -336,6 +336,23 @@
 	      toward true distributed cloud volume replication.</p>
 	    </aside>
 	  </section>
+	  <section>
+	    <h2>Neutron?</h2>
+	    <aside class="notes">
+	      <p>We don't have a replication story for Neutron
+	      yet. The only thing you can do there is use your own
+	      external routing and/or NAT, presumably boiling down to
+	      BGP at the edge network.</p>
+	    </aside>
+	  </section>
+	  <section>
+	    <h2>Nova?</h2>
+	    <aside class="notes">
+	      <p>No cross-cloud migration story there yet, either. But
+	      then, you should just orchestrate at the Heat level,
+	      really.</p>
+	    </aside>
+	  </section>
 	</section>
 
 	<section>
