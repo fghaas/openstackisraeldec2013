@@ -32,9 +32,21 @@
 	<section id="intro">
 	  <section>
 	    <h2>What are we talking about?</h2>
+	    <aside class="notes">
+	      <p>So what is the topic of today's talk? We'll be
+	      talking about...</p>
+	    </aside>
 	  </section>
 	  <section>
 	    <h2>Geographically distributed OpenStack</h2>
+	    <aside class="notes">
+	      <p>... geographically distributed OpenStack clouds. So
+	      what is that? What makes our cloud "geographically
+	      distributed"? Is it a specific <em>distance</em> between
+	      sites (in kilometers)? Or is it a specific mode of
+	      <em>organizing</em> our cloud? Or a specific
+	      <em>goal</em> we want to achieve with it?</p>
+	    </aside>
 	  </section>
 	  <section>
 	    <p>An OpenStack cloud (or multiple clouds) spanning
@@ -61,6 +73,11 @@
 	    services</strong> in a <strong>backup site</strong> if the
 	    primary site is <strong>disabled</strong> or
 	    <strong>unavailable.</strong></p>
+	    <aside class="notes">
+	      <p>This is the classic no-brainer motivation for
+	      geographic distribution. What if an A380 slams into my
+	      DC, or a backhoe cuts the fiber to my building?</p>
+	    </aside>
 	  </section>
 	  <section>
 	    <h3>Local Affinity</h3>
@@ -83,6 +100,11 @@
 	      <p class="fragment">Being able to <strong>geographically
 	      position</strong> your services based on <strong>time of
 	      day</strong> or other time-based parameters.</p>
+	      <aside class="notes">Your services may be
+	      latency-critical, and may experience peaks based on time
+	      of day (or year). It may be cost effective to host your
+	      services in such a way that they are always closest to
+	      the majority of your users.</aside>
 	    </section>
 	  </section>
 	</section>
