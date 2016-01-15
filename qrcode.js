@@ -1,1 +1,0 @@
-../qrcodejs/qrcode.js
